@@ -1,0 +1,1 @@
+To All, 该README会被Gitee和谐掉，如果[**指导手册tutorial**](https://gitee.com/echo_lin/big-gan/blob/master/tutorial.md)不能查看，可通过点击此[**链接获取PDF文件**](https://zhonglin-public.obs.cn-north-4.myhuaweicloud.com/big-gan.pdf)。
