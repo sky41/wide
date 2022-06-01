@@ -7,9 +7,6 @@ data2 = pd.read_csv('附件_一季度0001.csv')
 data3 = pd.read_csv('附件_一季度0001.csv')
 data4 = pd.read_csv('附件_一季度0001.csv')
 data1.head(5)
-# In[2]:
-
-
 data1.describe()
 
 # In[3]:
