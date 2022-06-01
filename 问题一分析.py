@@ -1,16 +1,12 @@
 # coding: utf-8
 
 # In[1]:
-
-
 import pandas as pd
-
 data1 = pd.read_csv('附件_一季度0001.csv')
 data2 = pd.read_csv('附件_一季度0001.csv')
 data3 = pd.read_csv('附件_一季度0001.csv')
 data4 = pd.read_csv('附件_一季度0001.csv')
 data1.head(5)
-
 # In[2]:
 
 
@@ -83,7 +79,6 @@ len(data2['水表名'].unique())
 len(data3['水表名'].unique())
 
 # In[16]:
-
 
 len(data4['水表名'].unique())
 
